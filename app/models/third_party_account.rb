@@ -1,0 +1,2 @@
+class ThirdPartyAccount < ApplicationRecord
+end

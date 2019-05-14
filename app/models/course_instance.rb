@@ -1,0 +1,2 @@
+class CourseInstance < ApplicationRecord
+end
